@@ -1,0 +1,4 @@
+i) Take ppt or image
+ii) Convert to readable text
+iii) Turn into webapp
+iv) Create quiz from generated text
