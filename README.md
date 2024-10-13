@@ -12,6 +12,8 @@ Project Overview: EduBuddy is an innovative web application designed to streamli
 - **User-Friendly Interface**: Simple and intuitive design for seamless user experience.
 
 
-## Target Audience: EduBuddy is ideal for students, educators, and professionals seeking to enhance their learning experience. Whether preparing for exams, conducting research, or seeking to solidify understanding of complex topics, EduBuddy serves as a reliable companion.
+## Target Audience: 
+EduBuddy is ideal for students, educators, and professionals seeking to enhance their learning experience. Whether preparing for exams, conducting research, or seeking to solidify understanding of complex topics, EduBuddy serves as a reliable companion.
 
-## Vision: EduBuddy aims to empower learners by simplifying the process of content extraction and quiz generation, ultimately making education more accessible and engaging. By combining technology with education, EduBuddy aspires to foster a love for learning and promote knowledge retention.
+## Vision: 
+EduBuddy aims to empower learners by simplifying the process of content extraction and quiz generation, ultimately making education more accessible and engaging. By combining technology with education, EduBuddy aspires to foster a love for learning and promote knowledge retention.
